@@ -1,0 +1,37 @@
+# Tor state file last generated on 2017-12-05 12:23:11 local time
+# Other times below are in UTC
+# You *do not* need to edit this file.
+
+Guard in=default rsa_id=3493EAAB7EEE3D7F143D8385FCBF1F4777A9FDAF nickname=nodeone sampled_on=2017-11-26T11:20:46 sampled_by=0.3.1.7 listed=1
+Guard in=default rsa_id=387B065A38E4DAA16D9D41C2964ECBC4B31D30FF nickname=redjohn1 sampled_on=2017-11-23T15:21:22 sampled_by=0.3.1.7 listed=1 confirmed_on=2017-11-30T05:18:39 confirmed_idx=3
+Guard in=default rsa_id=DF445006932A7BA942F3EBB4457D7ABF2E4006E0 nickname=giorgetti sampled_on=2017-11-24T23:53:22 sampled_by=0.3.1.7 listed=1
+Guard in=default rsa_id=2A4C448784F5A83AFE6C78DA357D5E31F7989DEB nickname=janschejbalScaleWy2 sampled_on=2017-11-24T19:06:11 sampled_by=0.3.1.7 listed=1 confirmed_on=2017-12-05T10:45:27 confirmed_idx=0 pb_circ_attempts=31.000000 pb_circ_successes=31.000000 pb_successful_circuits_closed=31.000000
+Guard in=default rsa_id=124A4D2A7E40211E5BAB24978181F25BD3E798F1 nickname=kafonbonvole sampled_on=2017-11-29T03:03:24 sampled_by=0.3.1.7 listed=1
+Guard in=default rsa_id=7A98143747A40AA7A5815CADB2E221EBF3E66065 nickname=torden sampled_on=2017-11-29T06:24:18 sampled_by=0.3.1.7 listed=1 confirmed_on=2017-12-02T06:43:49 confirmed_idx=1 pb_circ_attempts=1.000000 pb_circ_successes=1.000000 pb_successful_circuits_closed=1.000000
+Guard in=default rsa_id=9B08FC7FD49EEF1AF3AD637E763EF78AB7A0F56B nickname=h0mer sampled_on=2017-11-26T15:13:49 sampled_by=0.3.1.7 listed=1
+Guard in=default rsa_id=9E654F92F84908427A2EABFF43349BCC32838F1D nickname=Reichsfunkmast sampled_on=2017-12-04T02:59:09 sampled_by=0.3.1.7 listed=1
+Guard in=default rsa_id=1576BE143D8727745BB2BCDDF183291B3C3EFEFC nickname=anotherone sampled_on=2017-11-30T11:29:55 sampled_by=0.3.1.7 listed=1
+Guard in=default rsa_id=E29AC1966CA6F71622FFF025FFBDC1AF507E22B6 nickname=smedjenRelay sampled_on=2017-11-23T13:55:52 sampled_by=0.3.1.7 listed=1
+Guard in=default rsa_id=F572B6250EB32313B9F2CA54F100265A5FA26D39 nickname=servbr6 sampled_on=2017-11-27T21:48:55 sampled_by=0.3.1.7 listed=1
+Guard in=default rsa_id=D7632418D69F274E6B260D448E3099315CD72C50 nickname=April sampled_on=2017-11-26T11:19:51 sampled_by=0.3.1.7 listed=1
+Guard in=default rsa_id=3B8EB794055BE593FB39E3872AE80482354A4632 nickname=blablablabla sampled_on=2017-11-26T06:22:50 sampled_by=0.3.1.7 listed=1
+Guard in=default rsa_id=E8AD91641AD1220DE306EEA1CF1036BC5162705F nickname=sa3 sampled_on=2017-12-02T22:48:51 sampled_by=0.3.1.7 listed=1 confirmed_on=2017-11-23T18:41:28 confirmed_idx=2
+Guard in=default rsa_id=9844B981A80B3E4B50897098E2D65167E6AEF127 nickname=0x3d004 sampled_on=2017-11-30T09:33:03 sampled_by=0.3.1.7 listed=1
+Guard in=default rsa_id=0446B1B4FF9574389E9F7519A2805855EE4835D3 nickname=spiraldog sampled_on=2017-12-04T16:06:06 sampled_by=0.3.1.7 listed=1
+Guard in=default rsa_id=A22B1C2EF2255987F8AB8AA0B1A8E23F5023EEB8 nickname=Init6TorRelay sampled_on=2017-12-03T01:22:27 sampled_by=0.3.1.7 listed=1
+Guard in=default rsa_id=12CF84D3D2E30BB9799BFC0E1DDDFDA8D35AF007 nickname=Unnamed sampled_on=2017-11-29T01:20:51 sampled_by=0.3.1.7 listed=1
+Guard in=default rsa_id=3A901D1D97500D021E9BDD2A06BE5A846051CD0F nickname=TykRelay07 sampled_on=2017-11-23T19:04:36 sampled_by=0.3.1.7 listed=1
+Guard in=default rsa_id=5665A3904C89E22E971305EE8C1997BCA4123C69 nickname=GermanCraft sampled_on=2017-11-27T10:35:51 sampled_by=0.3.1.7 listed=1
+TorVersion Tor 0.3.1.7 (git-6babd3d9ba9318b3)
+LastWritten 2017-12-05 11:23:11
+TotalBuildTimes 32
+CircuitBuildTimeBin 175 1
+CircuitBuildTimeBin 225 5
+CircuitBuildTimeBin 275 4
+CircuitBuildTimeBin 325 2
+CircuitBuildTimeBin 375 6
+CircuitBuildTimeBin 425 6
+CircuitBuildTimeBin 475 3
+CircuitBuildTimeBin 525 3
+CircuitBuildTimeBin 675 1
+CircuitBuildTimeBin 1125 1

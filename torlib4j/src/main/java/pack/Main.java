@@ -36,7 +36,7 @@ public class Main {
 //			UserInfo ui = new MyUserInfo();
 //			session.setUserInfo(ui);
 			
-			session.setPassword("B123273*tom");
+			session.setPassword("");
 			
 			int assinged_port=session.setPortForwardingL(lport, rhost, rport);
 		      System.out.println("localhost:"+assinged_port+" -> "+rhost+":"+rport);

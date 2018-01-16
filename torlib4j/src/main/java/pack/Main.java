@@ -23,8 +23,8 @@ public class Main {
 			
 			
 
-			String user = "t0mB";
-			String host = "136.144.170.66";
+			String user = "";
+			String host = "";
 
 			Session session = jsch.getSession(user, host, 22);
 
